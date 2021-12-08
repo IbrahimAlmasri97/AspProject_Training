@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ابراهيم\\Desktop\\aspgithub\\Level2.6\\firstLevel2\\firstLevel2.csproj": {}
+    "C:\\Users\\ابراهيم\\Documents\\GitHub\\aspproject1\\Level2.6\\firstLevel2\\firstLevel2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ابراهيم\\Desktop\\aspgithub\\Level2.6\\firstLevel2\\firstLevel2.csproj": {
+    "C:\\Users\\ابراهيم\\Documents\\GitHub\\aspproject1\\Level2.6\\firstLevel2\\firstLevel2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ابراهيم\\Desktop\\aspgithub\\Level2.6\\firstLevel2\\firstLevel2.csproj",
+        "projectUniqueName": "C:\\Users\\ابراهيم\\Documents\\GitHub\\aspproject1\\Level2.6\\firstLevel2\\firstLevel2.csproj",
         "projectName": "firstLevel2",
-        "projectPath": "C:\\Users\\ابراهيم\\Desktop\\aspgithub\\Level2.6\\firstLevel2\\firstLevel2.csproj",
+        "projectPath": "C:\\Users\\ابراهيم\\Documents\\GitHub\\aspproject1\\Level2.6\\firstLevel2\\firstLevel2.csproj",
         "packagesPath": "C:\\Users\\ابراهيم\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ابراهيم\\Desktop\\aspgithub\\Level2.6\\firstLevel2\\obj\\",
+        "outputPath": "C:\\Users\\ابراهيم\\Documents\\GitHub\\aspproject1\\Level2.6\\firstLevel2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ابراهيم\\AppData\\Roaming\\NuGet\\NuGet.Config",
